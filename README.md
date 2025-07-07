@@ -36,19 +36,6 @@ Input: Provide a FASTA file when prompted.
 Output: Generates protein_analysis_results.txt.
 
 
-###📂 Repository Structure
-
-BioComputing_Course_FAST-NU/
-├── Project/               # Final Project
-│   ├── protein_analysis.py
-│   └── protein_analysis_results.txt
-├── Labs/                  # All lab assignments
-│   ├── Lab1.py
-│   ├── Lab2.py
-│   └── ...
-├── Data/                  # Sample FASTA files
-├── README.md              # This file
-
 🧪 Key Python Libraries Used
 Biopython: For sequence analysis (ProtParam, SeqIO).
 
