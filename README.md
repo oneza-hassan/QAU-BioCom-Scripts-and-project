@@ -11,7 +11,7 @@
 ---
 
 ## 📌 Project Overview
-This repository contains **all lab assignments** and the **final project** from the BioComputing course at FAST-NU. The flagship project is a **protein sequence analysis tool** that predicts helical regions using the Kyte-Doolittle hydrophobicity scale.
+This repository contains **all lab assignments** and the **final project** from the BioComputing course at QAU. The flagship project is a **protein sequence analysis tool** that predicts helical regions using the Kyte-Doolittle hydrophobicity scale.
 
 ---
 
