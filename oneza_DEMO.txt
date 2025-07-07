@@ -1,0 +1,4 @@
+ONEZA's first file created
+BIO COMPUTING 2
+lab 10: file handling
+demo file

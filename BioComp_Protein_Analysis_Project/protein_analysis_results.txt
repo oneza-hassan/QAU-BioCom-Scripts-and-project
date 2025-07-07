@@ -1,0 +1,38 @@
+PROTEIN ANALYSIS REPORT
+--------------------------------
+Protein sequence: ID: OAZ65665.1
+Name: OAZ65665.1
+Description: OAZ65665.1 Aspartate kinase [Bacillus licheniformis]
+Number of features: 0
+Seq('MGLIVQKFGGTSVGSVEKILNVANRVIEEKQRGHDVVVVVSAMGKSTDSLVALA...AVI')
+--------------------------------
+Amino acid composition (%):
+A: 9.05%
+C: 0.49%
+D: 4.40%
+E: 9.05%
+F: 2.20%
+G: 7.82%
+H: 0.98%
+I: 7.09%
+K: 6.36%
+L: 8.07%
+M: 2.69%
+N: 3.91%
+P: 1.47%
+Q: 3.67%
+R: 3.42%
+S: 7.09%
+T: 9.29%
+V: 10.76%
+W: 0.24%
+Y: 1.96%
+--------------------------------
+Molecular weight: 43930.56 Da
+--------------------------------
+Predicted helix regions (Kyte-Doolittle):
+From 35 to 46 (Length: 12 residues)
+From 74 to 86 (Length: 13 residues)
+From 129 to 140 (Length: 12 residues)
+From 155 to 166 (Length: 12 residues)
+From 353 to 364 (Length: 12 residues)
